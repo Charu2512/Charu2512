@@ -8,10 +8,13 @@ I’m a passionate Java Full Stack Developer with expertise in High-Level and Lo
 🚀 Backend Skills
 
 Languages: Java, Spring Framework, Spring Boot, Hibernate, Microservices
+
 APIs: RESTful APIs
+
 Design Patterns: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
 
 🎨 Frontend Skills
 
 Frameworks/Libraries: React, Angular, Next.js
+
 Languages: HTML, CSS, JavaScript
